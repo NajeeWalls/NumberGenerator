@@ -1,0 +1,29 @@
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.Properties.Resources.resources
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.csproj.GenerateResource.Cache
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.exe
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.pdb
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.RawForm.resources
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.RawForm.resources
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.Properties.Resources.resources
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\ResGen.read.1.tlog
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\ResGen.write.1.tlog
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.exe
+S:\Seminar\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.pdb
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.MainMenu.resources
+C:\Users\Najee\Dropbox\Seminar\Number generator\NumberGenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.CoinFlipForm.resources
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.exe
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.pdb
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.csprojResolveAssemblyReference.cache
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.CoinFlipForm.resources
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.MainMenu.resources
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.RawForm.resources
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.Properties.Resources.resources
+S:\Number generator\Number generator\numbergenerator\NumberGenerator\obj\x86\Debug\NumberGenerator.csproj.GenerateResource.Cache
